@@ -23,7 +23,7 @@ Na primeira parte do projeto é realizada a implementação do algortimo e o mes
 
 ### Parte 2 
 
-Nesta segunda etapa, usando o arquivo *data1.txt*, o Neurônio Perceptron implementado na primeira parte é utilizado para testar 6 possibilidades distintas resultantes das combinações de três taxas de aprendizado (0.4, 0.1, 0.01) com dois intervalos de pesos {(-100, 100), (-0.5, 0.5)}. Cada configuração é testada por 10 iterações.
+Nesta segunda etapa, usando o arquivo *data1.txt*, o Neurônio Perceptron implementado na primeira parte é utilizado para testar 6 possibilidades distintas resultantes das combinações de três taxas de aprendizado (0.4, 0.1, 0.01) com dois intervalos de pesos {(-100, 100), (-0.5, 0.5)}. Cada configuração é testada por 10 iterações. Além disso, foi gerado o gráfico do resultado para a última iteração de cada combinação.
 
 ### Parte 3
 
