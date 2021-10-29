@@ -3,10 +3,15 @@
 Neste repositório você encontrará as atividades referentes à Atividade Avaliativa 2.1:  Aprendizado Supervisionado no Neurônio Perceptron, da disciplina Redes Neurais Artificiais ministrada pela professora Dra. Elloá B. Guedes, no curso de Sistemas de Informação da Escola Superior de Tecnologia (EST) da Universidade do Estado do Amazonas(UEA). 
 
 ## Equipe responsável: 
-- [Ícaro Pereira](https://github.com/icarosun)
-- [Jesus Dourado](https://github.com/jesusdourado)
-- [Luiz Barros](https://github.com/LuizHenrique-BS)
-- [Willians Oliveira](https://github.com/willianszwy)
+- [Ícaro Pereira](https://github.com/icarosun) 1815310070
+- [Jesus Dourado](https://github.com/jesusdourado) 1715080108
+- [Luiz Barros](https://github.com/LuizHenrique-BS) 1515080172
+- [Willians Oliveira](https://github.com/willianszwy) 1815310027
+
+## Identificador da equipe
+**1** 
+
+Arquivo correspondente: *data1.txt*
 
 ## Resumo
 
